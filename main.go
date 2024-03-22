@@ -1,5 +1,5 @@
 // Clock is a TCP server that periodically writes the time. Adapted from
-// github.com/adonovan/gopl.io/tree/master/ch8/clock2.
+// https://github.com/adonovan/gopl.io/tree/master/ch8/clock2.
 package main
 
 import (
