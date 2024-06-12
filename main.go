@@ -1,4 +1,4 @@
-// Clock is a TCP server that periodically writes the time. Adapted from
+// Tcpserver is a network clock that periodically writes the time. Adapted from
 // https://github.com/adonovan/gopl.io/tree/master/ch8/clock2.
 package main
 
